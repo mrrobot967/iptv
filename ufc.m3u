@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TNT SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuNoqa2NtVgkV7HgfK8JjbYeCo-WQpMiRQEbFLUB78mQ&s" group-title="Deportes", TNT SPORTS
+http://104.238.205.28:8989/278540_.m3u8
+
+#EXTINF:-1 tvg-name="DSPORTS" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png" group-title="Deportes",DSPORTS
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/9562
+
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2" tvg-logo="http://latinapro.net:25461/images/ce12f1c08bcf7051f969c3d3f7c34cf8.jpg" group-title="Deportes",Directv Sports 2
+http://latinapro.net:25461/lazaroperez/perez3/332.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Plus" tvg-logo="http://latinapro.net:25461/images/1cb727ee6749459347f0cbfed1761a54.png" group-title="Deportes",Directv Sports Plus
+http://latinapro.net:25461/lazaroperez/perez3/19632.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1" tvg-logo="http://latinapro.net:25461/images/e1bd9e9008c137da501e5e0dca12d8b9.png" group-title="Deportes", ESPN Hd
+http://latinapro.net:25461/lazaroperez/perez3/5487.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://latinapro.net:25461/images/e3d036fc00328bb677688d4ddb57ce9e.jpg" group-title="Deportes", ESPN 2 HD
+http://latinapro.net:25461/lazaroperez/perez3/5488.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://latinapro.net:25461/images/c90f52dcf1ffbe6e41b1870211d477e5.jpg" group-title="Deportes",ESPN 3 HD
+http://latinapro.net:25461/lazaroperez/perez3/5489.ts
+
+#EXTINF:-1 tvg-id="espnplus.co" tvg-name="Mex: ESPN PLUS" tvg-logo="http://latinapro.net:25461/images/40e64337cd1d5252dde0710ebc84f9bf.jpg" group-title="Deportes", ESPN PLUS
+http://latinapro.net:25461/lazaroperez/perez3/5490.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Espn Deportes" tvg-logo="http://latinapro.net:25461/images/245c14166145c50e430adb8b4160fe49.png" group-title="Deportes",Espn Deportes
+http://latinapro.net:25461/lazaroperez/perez3/4190.ts
+
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="Es: Real Madrid Tv Hd (P)" tvg-logo="http://latinapro.net:25461/images/ae37dc620bb8bb11c8b78058f68a5fc1.png" group-title="Deportes",Real Madrid Tv
+http://latinapro.net:25461/lazaroperez/perez3/185.ts
+
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="Deportes",FIFA+ España
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
