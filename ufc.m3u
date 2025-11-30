@@ -38,5 +38,8 @@ http://latinapro.net:25461/lazaroperez/perez3/2263.ts
 #EXTINF:-1 tvg-id="" tvg-name="Deportes 2 HD Eventos" tvg-logo="http://latinapro.net:25461/images/c3f8f9d641b3e793e2cb66680a3208e5.jpeg" group-title="Deportes",Deportes 2 HD Eventos
 http://latinapro.net:25461/lazaroperez/perez3/2264.ts
 
+#EXTINF:-1 tvg-id="goltv_2" tvg-logo="https://img.teleclub.xyz/goltv.png" group-title="Deportes", Gol TV
+http://tv.teleclub.xyz/stream/server_2/deportes/goltv/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Deportes 3 Hd Eventos" tvg-logo="http://latinapro.net:25461/images/c3f8f9d641b3e793e2cb66680a3208e5.jpeg" group-title="Deportes",Deportes 3 Hd Eventos
 http://latinapro.net:25461/lazaroperez/perez3/34137.ts
