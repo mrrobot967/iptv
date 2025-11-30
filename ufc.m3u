@@ -41,5 +41,5 @@ http://latinapro.net:25461/lazaroperez/perez3/2264.ts
 #EXTINF:-1 tvg-id="" tvg-name="Deportes 3 Hd Eventos" tvg-logo="http://latinapro.net:25461/images/c3f8f9d641b3e793e2cb66680a3208e5.jpeg" group-title="Deportes",Deportes 3 Hd Eventos
 http://latinapro.net:25461/lazaroperez/perez3/34137.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 10" tvg-logo="https://i.imgur.com/ztp781b.png" group-title="Local",Canal 10 Ni
-http://138.117.4.70:8075/Canal10_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-id="top-barca-es" tvg-name="top-barca-es" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg" group-title="Deportes" , TOP Barça
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
