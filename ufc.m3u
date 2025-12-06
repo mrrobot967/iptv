@@ -57,5 +57,5 @@ http://104.238.205.28:8989/278566_.m3u8
 #EXTINF:-1 tvg-id="top-barca-es" tvg-name="top-barca-es" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg" group-title="Deportes" , TOP Barça
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EVENTOS BAJA RESOLOCION" tvg-name="EVENTOS BAJA RESOLOCION" group-title="Deportes",Eventos Baja Resoloc
+#EXTINF:-1 tvg-id="EVENTOS BAJA RESOLOCION" tvg-name="EVENTOS BAJA RESOLOCION" group-title="Deportes",Eventos Baja Resolocion
 https://tvpass.org/live/espn-deportes/sd
