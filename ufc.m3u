@@ -55,11 +55,12 @@ http://clubtv.link/0125d/phpcode/lista1.php?c=a0ix&token=tecnotokenplustv&f=.m3u
 #EXTINF:-1 tvg-shift="-6"  group-title="Deportes", ESPN 6 HD
 http://clubtv.link/0125d/phpcode/lista1.php?c=a0kj&token=tecnotokenplustv&f=.m3u8
 
+#EXTINF:-1 tvg-shift="-6"  group-title="Deportes", SKY SPORT
+http://clubtv.link/0125d/phpcode/lista1.php?c=a05r&token=tecnotokenplustv&f=.m3u8
+
 #EXTINF:-1 tvg-shift="-6"  group-title="Deportes", Claro Sports  HD
 http://clubtv.link/0125d/phpcode/lista1.php?c=a0kz&token=tecnotokenplustv&f=.m3u8
 
 #EXTINF:-1 tvg-shift="-6"  group-title="Deportes", Claro Sports 3 HD
 http://clubtv.link/0125d/phpcode/lista1.php?c=a024&token=tecnotokenplustv&f=.m3u8
 
-#EXTINF:-1 tvg-shift="-6"  group-title="Deportes", SKY SPORTS
-http://clubtv.link/0125d/phpcode/lista1.php?c=a05r&token=tecnotokenplustv&f=.m3u8
