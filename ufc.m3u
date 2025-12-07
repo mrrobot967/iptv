@@ -64,3 +64,17 @@ http://clubtv.link/0125d/phpcode/lista1.php?c=a0kz&token=tecnotokenplustv&f=.m3u
 #EXTINF:-1 tvg-shift="-6"  group-title="Deportes", Claro Sports 3 HD
 http://clubtv.link/0125d/phpcode/lista1.php?c=a024&token=tecnotokenplustv&f=.m3u8
 
+
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ES: DAZN 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/484784419a9faf9cbeac602c51174f16.png" group-title="Deportes",ES: DAZN 1 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292976.ts
+
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="ES: DAZN 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b025261b7fc8b187dddf757424b01db.png" group-title="Deportes",ES: DAZN 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292977.ts
+
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: Movistar Laliga HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/83c20e93f805d1c0de43abcaf10f42de.png" group-title="Deportes",ES: Movistar Laliga HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292991.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Laliga HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/7c83dbf4ff68c32c3a692312a13a4d79.jpg" group-title="Deportes",ES: DAZN Laliga HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292980.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ Laliga HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/1c92f761559aeaa4272197b0a5cbca0e.png" group-title="Deportes",ES: M+ Laliga HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/292990.ts
