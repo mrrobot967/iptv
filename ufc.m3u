@@ -37,33 +37,6 @@ https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/a
 #EXTINF:-1 tvg-id="EVENTOS BAJA RESOLOCION" tvg-name="EVENTOS BAJA RESOLOCION" group-title="Deportes",Eventos Baja Resolocion
 https://tvpass.org/live/espn-deportes/sd
 
-#EXTINF:-1 tvg-shift="-6"  group-title="Deportes", ESPN HD
-http://clubtv.link/0125d/phpcode/lista1.php?c=a052&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-shift="-6"  group-title="Deportes", ESPN 2 HD
-http://clubtv.link/0125d/phpcode/lista1.php?c=a053&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-shift="-6"  group-title="Deportes", ESPN 3 HD
-http://clubtv.link/0125d/phpcode/lista1.php?c=a054&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-shift="-6"  group-title="Deportes", ESPN  4 HD
-http://clubtv.link/0125d/phpcode/lista1.php?c=a028&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-shift="-6"  group-title="Deportes", ESPN 5 HD
-http://clubtv.link/0125d/phpcode/lista1.php?c=a0ix&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-shift="-6"  group-title="Deportes", ESPN 6 HD
-http://clubtv.link/0125d/phpcode/lista1.php?c=a0kj&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-shift="-6"  group-title="Deportes", SKY SPORT
-http://clubtv.link/0125d/phpcode/lista1.php?c=a05r&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-shift="-6"  group-title="Deportes", Claro Sports  HD
-http://clubtv.link/0125d/phpcode/lista1.php?c=a0kz&token=tecnotokenplustv&f=.m3u8
-
-#EXTINF:-1 tvg-shift="-6"  group-title="Deportes", Claro Sports 3 HD
-http://clubtv.link/0125d/phpcode/lista1.php?c=a024&token=tecnotokenplustv&f=.m3u8
-
 
 #EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="ES: DAZN 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/484784419a9faf9cbeac602c51174f16.png" group-title="Deportes",ES: DAZN 1 HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/292976.ts
