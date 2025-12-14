@@ -7,49 +7,6 @@ http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/9562
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports Plus" tvg-logo="http://latinapro.net:25461/images/1cb727ee6749459347f0cbfed1761a54.png" group-title="Deportes",Directv Sports Plus
 http://latinapro.net:25461/lazaroperez/perez3/19632.ts
 
-#EXTINF:-1,ESPN
-http://200.92.227.238:8000/play/a0o6/index.m3u8
-
-#EXTINF:-1,ESPN 4 HD
-http://200.92.227.238:8000/play/a0ti/index.m3u8
-
-#EXTINF:-1,ESPN 2
-http://200.92.227.238:8000/play/a0o7/index.m3u8
-
-#EXTINF:-1,ESPN 2 HD
-http://200.92.227.238:8000/play/a0tk/index.m3u8
-
-#EXTINF:-1,ESPN 3
-http://200.92.227.238:8000/play/a0tf/index.m3u8
-
-#EXTINF:-1,ESPN 3
-http://200.92.227.238:8000/play/a0nb/index.m3u8
-
-#EXTINF:-1,ESPN 3 HD
-http://200.92.227.238:8000/play/a0tl/index.m3u8
-
-#EXTINF:-1,ESPN 4
-http://200.92.227.238:8000/play/a0tg/index.m3u8
-
-#EXTINF:-1,ESPN 5
-http://200.92.227.238:8000/play/a0u9/index.m3u8
-
-#EXTINF:-1,ESPN 5 HD
-http://200.92.227.238:8000/play/a0um/index.m3u8
-
-#EXTINF:-1,ESPN 6
-http://200.92.227.238:8000/play/a0th/index.m3u8
-
-#EXTINF:-1,ESPN 6 HD
-http://200.92.227.238:8000/play/a0tm/index.m3u8
-
-#EXTINF:-1,ESPN HD
-http://200.92.227.238:8000/play/a0tj/index.m3u8
-
-#EXTINF:-1,ESPN HD
-http://200.92.227.238:8000/play/a0pt/index.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="Es: Real Madrid Tv Hd (P)" tvg-logo="http://latinapro.net:25461/images/ae37dc620bb8bb11c8b78058f68a5fc1.png" group-title="Deportes",Real Madrid Tv
