@@ -36,6 +36,7 @@ http://ip96.uk:8080//live/H645668DH/7565848DHY/292980.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ Laliga HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/1c92f761559aeaa4272197b0a5cbca0e.png" group-title="Deportes",ES: M+ Laliga HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/292990.ts
 
+#EXTM3U
 #EXTINF:-1,⭐NTV*PPV*HD⭐1080p
 http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/1
 #EXTINF:-1,⭐NTV*PPV2*HD⭐720p
