@@ -14,26 +14,11 @@ http://latinapro.net:25461/lazaroperez/perez3/185.ts
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="Deportes",FIFA+ España
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Deportes 1 HD Eventos" tvg-logo="http://latinapro.net:25461/images/c3f8f9d641b3e793e2cb66680a3208e5.jpeg" group-title="Deportes",Deportes 1 HD Eventos
-http://latinapro.net:25461/lazaroperez/perez3/2263.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Deportes 2 HD Eventos" tvg-logo="http://latinapro.net:25461/images/c3f8f9d641b3e793e2cb66680a3208e5.jpeg" group-title="Deportes",Deportes 2 HD Eventos
-http://latinapro.net:25461/lazaroperez/perez3/2264.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Deportes 3 Hd Eventos" tvg-logo="http://latinapro.net:25461/images/c3f8f9d641b3e793e2cb66680a3208e5.jpeg" group-title="Deportes",Deportes 3 Hd Eventos
-http://latinapro.net:25461/lazaroperez/perez3/34137.ts
-
-#EXTINF:-1 tvg-name="Espn 2" tvg-logo="http://ceoapps.org/logos/espn2mx.png"group-title="Deportes" , Espn 2 MX 
-http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/3
-
-#EXTINF:-1 tvg-name="Espn 3 Arg" tvg-logo="http://ceoapps.org/logos/espn3mx.png" group-title="Deportes" , Espn 3 ARG
-http://177.234.230.206:8011/play/a0ox/index.m3u8
-
 
 #EXTINF:-1 tvg-id="top-barca-es" tvg-name="top-barca-es" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg" group-title="Deportes" , TOP Barça
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EVENTOS BAJA RESOLOCION" tvg-name="EVENTOS BAJA RESOLOCION" group-title="Deportes",Eventos Baja Resolocion
+#EXTINF:-1 tvg-id="EVENTOS BAJA RESOLUCION" tvg-name="EVENTOS BAJA RESOLOCION" group-title="Deportes",Eventos Baja Resolocion
 https://tvpass.org/live/espn-deportes/sd
 
 
@@ -50,3 +35,30 @@ http://ip96.uk:8080//live/H645668DH/7565848DHY/292980.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ Laliga HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/1c92f761559aeaa4272197b0a5cbca0e.png" group-title="Deportes",ES: M+ Laliga HD
 http://ip96.uk:8080//live/H645668DH/7565848DHY/292990.ts
+
+#EXTINF:-1,⭐NTV*PPV*HD⭐1080p
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/1
+
+#EXTINF:-1,⭐NTV*PPV2*HD⭐720p
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/2
+
+#EXTINF:-1,⭐NTV*PPV+*HD⭐
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/19
+
+#EXTINF:-1,⭐⚽LigaProEC2026⚽⭐
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/4
+
+#EXTINF:-1,⭐⚽CopaEC2026⚽⭐
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/5
+
+#EXTINF:-1,⭐EspnSurFHD⭐
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/14
+
+#EXTINF:-1,⭐Espn2SurHD⭐
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/3
+
+#EXTINF:-1,⭐Espn3SurHD⭐
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/25
+
+#EXTINF:-1,⭐FoxSports.argHD⭐
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/26
